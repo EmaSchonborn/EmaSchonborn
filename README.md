@@ -5,7 +5,7 @@ Soy un Programador Fullstack, con gran amor tanto al Front-end como al Back-end.
 ## ¿Qué hago? ##
 Actualmente me dedico a realizar proyectos como freelancer, lo cual me permite seguir formándome y actualizándome en las tecnologías que conozco. Me apasiona aprender y mantenerme al día con las últimas tendencias y prácticas en el desarrollo web.
 
-|## Mis habilidades ##|
+| Mis habilidades |
 |---------------------|
 |JavaScript|
 |Redux|
