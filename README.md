@@ -1,5 +1,3 @@
-#Ema-Schonborn
-
 ### Hola! Mi nombre es Emanuel Schönborn ###
 ## ¿Quién soy? ##
 Soy un Programador Fullstack, con gran amor tanto al Front-end como al Back-end.
