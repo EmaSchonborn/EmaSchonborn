@@ -28,7 +28,7 @@ Mi filosofía de vida se basa en la mejora constante. Siempre estoy buscando nue
 
 
 ## Contacto ##
-Puedes ubicarme ya sea vía mail o LinkedIn, los cuales brindo a continuación:
+Puedes ubicarme ya sea vía mail o LinkedIn, si tenes alguna duda o querés saber sobre mis servicios en:
 
 Gmail: schonborn13@gmail.com
 LinkedIn: www.linkedin.com/in/emanuel-schonborn|
