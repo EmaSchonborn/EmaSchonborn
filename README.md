@@ -25,3 +25,10 @@ En mi tiempo libre, disfruto de tocar el piano y la guitarra. La música es una 
 Mi filosofía de vida se basa en la mejora constante. Siempre estoy buscando nuevas formas de aprender, crecer y superar los desafíos. Mi objetivo es seguir expandiendo mis habilidades y conocimientos en el desarrollo web, buscando oportunidades para colaborar en proyectos innovadores y seguir evolucionando como profesional.
 
 ¡Estoy emocionado por lo que el futuro me depara y las oportunidades que puedo explorar como desarrollador Fullstack!
+
+
+## Contacto ##
+Puedes ubicarme ya sea vía mail o LinkedIn, los cuales brindo a continuación:
+|--------|---------|
+|Gmail---|schonborn13@gmail.com|
+|LinkedIn|www.linkedin.com/in/emanuel-schonborn|
