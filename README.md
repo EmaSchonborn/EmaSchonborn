@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏼 Soy Ema Schönborn, un Programador Fullstack apasionado por el desarrollo web y los idiomas.
+# ¡Hola! 👋🏼 Soy Ema Schönborn, desarrollador web FullSTack, apasionado por los idiomas.
 
 ## ¿Quién soy? ##
 Soy un desarrollador con experiencia en Front-end y Back-end, especializado en proyectos web.
@@ -31,18 +31,21 @@ Puedes contactarme por correo electrónico 📧 (schnborn13@gmail.com) o conecta
 
 ## Proyectos ##
 
-###Gamer Tech###
+### Gamer Tech ###
 ![gamer tech icono (1)](https://github.com/EmaSchonborn/EmaSchonborn/assets/98197086/b2af62b3-2641-4cbf-af16-52b483f8652e)
+
+
 Deploy: https://your-gammer-tech.vercel.app/
+
 Repositorio Front: https://github.com/TheTorOnionSeeker/apiGamerTech
+
 Repositorio Back: https://github.com/TheTorOnionSeeker/apiGamerTech
 
-### Dogs ###
-<a href="https://github.com/EmaSchonborn/Dogs-PI)">
-  <img src=![Dogs](https://github.com/EmaSchonborn/EmaSchonborn/assets/98197086/3703b1a9-3c11-426e-9f26-e6e905a0bdb5) alt="Dogs" />
-</a>
 
+### Dogs ###
+![Dogs](https://github.com/EmaSchonborn/EmaSchonborn/assets/98197086/3703b1a9-3c11-426e-9f26-e6e905a0bdb5)
 
 Deploy: https://yourfavouritedogapp.netlify.app/
+
 Repositorio: https://github.com/EmaSchonborn/Dogs-PI
 
