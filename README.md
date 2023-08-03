@@ -1,35 +1,30 @@
-### Hola! Mi nombre es Emanuel Schönborn ###
+# ¡Hola! 👋🏼 Soy Emanuel Schönborn, un Programador Fullstack apasionado por el desarrollo web y los idiomas.
+
 ## ¿Quién soy? ##
-Soy un Programador Fullstack, con gran amor tanto al Front-end como al Back-end.
+Soy un desarrollador con experiencia en Front-end y Back-end, especializado en proyectos web.
 
 ## ¿Qué hago? ##
-Actualmente me dedico a realizar proyectos como freelancer, lo cual me permite seguir formándome y actualizándome en las tecnologías que conozco. Me apasiona aprender y mantenerme al día con las últimas tendencias y prácticas en el desarrollo web.
+Actualmente, me dedico a trabajar como freelancer en proyectos web, lo cual me permite seguir aprendiendo y actualizándome en las últimas tecnologías.
 
-| Mis habilidades |
-|---------------------|
-|JavaScript|
-|Redux|
-|ReactJS|
-|NodeJS|
-|SQL|
+## Mis habilidades ##
+- 💻 JavaScript
+- ⚛️ ReactJS
+- 🔄 Redux
+- 🖥️ NodeJS
+- 🗃️ SQL
 
 ## Mi formación académica ##
-Además de mi experiencia profesional, soy estudiante de ingeniería en Sistemas. Esta combinación de conocimientos técnicos y académicos me permite fluir naturalmente en el campo de la programación y tener una perspectiva integral en mis proyectos.
+Además de mi experiencia profesional, soy estudiante de ingeniería en Sistemas, lo que me permite tener una perspectiva integral en mis proyectos.
 
 ## Mis intereses ##
-Además de la programación, tengo un gran interés por los idiomas. Actualmente, mi objetivo es convertirme en políglota y ya cuento con un nivel avanzado de inglés y conocimientos básicos de ruso. Estos idiomas no solo me abren puertas a nivel personal, sino que también me permiten acceder a recursos y conocimientos adicionales en el campo de la tecnología.
+Aparte de la programación, también tengo un gran interés en los idiomas. Actualmente, me encuentro en el camino de convertirme en políglota con conocimientos avanzados de inglés y básicos de ruso.
 
-En mi tiempo libre, disfruto de tocar el piano y la guitarra. La música es una forma de expresión creativa que equilibra mi vida y me brinda una salida fuera del ámbito tecnológico.
+En mi tiempo libre, disfruto tocando el piano 🎹 y la guitarra 🎸, lo cual me da una salida creativa fuera del ámbito tecnológico.
 
 ## Meta personal ##
-Mi filosofía de vida se basa en la mejora constante. Siempre estoy buscando nuevas formas de aprender, crecer y superar los desafíos. Mi objetivo es seguir expandiendo mis habilidades y conocimientos en el desarrollo web, buscando oportunidades para colaborar en proyectos innovadores y seguir evolucionando como profesional.
-
-¡Estoy emocionado por lo que el futuro me depara y las oportunidades que puedo explorar como desarrollador Fullstack!
-
+Siempre estoy buscando nuevas formas de aprender y crecer. Mi objetivo es expandir mis habilidades en el desarrollo web, colaborar en proyectos innovadores y seguir evolucionando como profesional.
 
 ## Contacto ##
-Puedes ubicarme ya sea vía mail o LinkedIn, si tenes alguna duda o querés saber sobre mis servicios en:
+Puedes contactarme por correo electrónico 📧 (schnborn13@gmail.com) o conectarme en LinkedIn 📎 (www.linkedin.com/in/emanuel-schonborn).
 
-Gmail: schonborn13@gmail.com
-
-LinkedIn: www.linkedin.com/in/emanuel-schonborn
+¡Estoy emocionado por lo que el futuro me depara y las oportunidades que puedo explorar como desarrollador Fullstack!
