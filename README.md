@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏼 Soy Emanuel Schönborn, un Programador Fullstack apasionado por el desarrollo web y los idiomas.
+# ¡Hola! 👋🏼 Soy Ema Schönborn, un Programador Fullstack apasionado por el desarrollo web y los idiomas.
 
 ## ¿Quién soy? ##
 Soy un desarrollador con experiencia en Front-end y Back-end, especializado en proyectos web.
