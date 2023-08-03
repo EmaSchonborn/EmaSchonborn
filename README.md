@@ -28,3 +28,10 @@ Siempre estoy buscando nuevas formas de aprender y crecer. Mi objetivo es expand
 Puedes contactarme por correo electrónico 📧 (schnborn13@gmail.com) o conectarme en LinkedIn 📎 (www.linkedin.com/in/emanuel-schonborn).
 
 ¡Estoy emocionado por lo que el futuro me depara y las oportunidades que puedo explorar como desarrollador Fullstack!
+
+## Proyectos ##
+<a>Gamer Tech
+![Gamer Tech](https://github.com/EmaSchonborn/EmaSchonborn/assets/98197086/305317aa-2402-4a83-8b4e-ca18e346d06b)
+</a>
+![Dogs](https://github.com/EmaSchonborn/EmaSchonborn/assets/98197086/3703b1a9-3c11-426e-9f26-e6e905a0bdb5)
+
