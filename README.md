@@ -25,7 +25,7 @@ En mi tiempo libre, disfruto tocando el piano 🎹 y la guitarra 🎸, lo cual m
 Siempre estoy buscando nuevas formas de aprender y crecer. Mi objetivo es expandir mis habilidades en el desarrollo web, colaborar en proyectos innovadores y seguir evolucionando como profesional.
 
 ## Contacto ##
-Puedes contactarme por correo electrónico 📧 (schnborn13@gmail.com) o conectarme en LinkedIn 📎 (www.linkedin.com/in/emanuel-schonborn).
+Puedes contactarme por correo electrónico 📧 (schonborn13@gmail.com) o conectarme en LinkedIn 📎 (www.linkedin.com/in/emanuel-schonborn).
 
 ¡Estoy emocionado por lo que el futuro me depara y las oportunidades que puedo explorar como desarrollador Fullstack!
 
