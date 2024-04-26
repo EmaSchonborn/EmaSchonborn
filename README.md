@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏼 Soy Ema Schönborn, desarrollador web FullSTack, apasionado por los idiomas.
+# ¡Hola! 👋🏼 Soy Ema Schönborn, desarrollador web FullStack, apasionado por los idiomas.
 
 ## ¿Quién soy? ##
 Soy un desarrollador con experiencia en Front-end y Back-end, especializado en proyectos web.
