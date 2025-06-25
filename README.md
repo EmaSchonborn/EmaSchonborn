@@ -1,51 +1,42 @@
-# ¡Hola! 👋🏼 Soy Ema Schönborn, desarrollador web FullStack, apasionado por los idiomas.
+👋🏼 ### Hey there! I'm Emanuel Schönborn — Full Stack Web Developer | Tech Explorer | Language Enthusiast
+👤 ## About Me
+I'm a curious and driven Full Stack Developer from Argentina with a solid foundation in both Frontend and Backend development. I specialize in building robust, user-focused web applications and thrive at the intersection of design, functionality, and performance.
 
-## ¿Quién soy? ##
-Soy un desarrollador con experiencia en Front-end y Back-end, especializado en proyectos web.
+I combine a strong technical toolkit with a deep passion for communication, languages, and creativity.
 
-## ¿Qué hago? ##
-Actualmente, me dedico a trabajar como freelancer en proyectos web, lo cual me permite seguir aprendiendo y actualizándome en las últimas tecnologías.
+💼 ## What I Do
+Currently, I work as a freelancer, building and maintaining full-featured web applications for clients. I stay hands-on with the latest technologies while also designing scalable, maintainable architectures.
 
-## Mis habilidades ##
-- 💻 JavaScript
-- ⚛️ ReactJS
-- 🔄 Redux
-- 🖥️ NodeJS
-- 🗃️ SQL
+I'm not just building code — I'm solving problems, refining UX, and collaborating to bring real-world impact through software.
 
-## Mi formación académica ##
-Además de mi experiencia profesional, soy estudiante de ingeniería en Sistemas, lo que me permite tener una perspectiva integral en mis proyectos.
+🧠 ## Tech Stack & Skills
+Languages: JavaScript, TypeScript, SQL
 
-## Mis intereses ##
-Aparte de la programación, también tengo un gran interés en los idiomas. Actualmente, me encuentro en el camino de convertirme en políglota con conocimientos avanzados de inglés y básicos de ruso.
+Frontend: ReactJS, Redux, TailwindCSS, Responsive UI/UX
 
-En mi tiempo libre, disfruto tocando el piano 🎹 y la guitarra 🎸, lo cual me da una salida creativa fuera del ámbito tecnológico.
+Backend: Node.js, Express.js, MongoDB, PostgreSQL
 
-## Meta personal ##
-Siempre estoy buscando nuevas formas de aprender y crecer. Mi objetivo es expandir mis habilidades en el desarrollo web, colaborar en proyectos innovadores y seguir evolucionando como profesional.
+State Management: Zustand, Redux Toolkit
 
-## Contacto ##
-Puedes contactarme por correo electrónico 📧 (schonborn13@gmail.com) o conectarme en LinkedIn 📎 (www.linkedin.com/in/emanuel-schonborn).
+Tools: Git, Docker, Postman, Figma
 
-¡Estoy emocionado por lo que el futuro me depara y las oportunidades que puedo explorar como desarrollador Fullstack!
+Architecture: RESTful APIs, MVC, SPA, PWA
 
-## Proyectos ##
+Others: Authentication, Payment Integrations, WebSockets, Cloud Deployments
 
-### Gamer Tech ###
-![gamer tech icono (1)](https://github.com/EmaSchonborn/EmaSchonborn/assets/98197086/b2af62b3-2641-4cbf-af16-52b483f8652e)
+🌍 ## Personal Interests
+Besides programming, I'm passionate about languages and communication. I'm actively becoming a polyglot — fluent in English, native in Spanish, and exploring Russian.
 
+I'm also a lifelong musician. In my free time, I love playing the piano 🎹 and guitar 🎸 — creativity flows from code to chords.
 
-Deploy: https://your-gammer-tech.vercel.app/
+🎯 ## My Mission
+I'm on a mission to keep evolving — not just as a developer, but as a thinker, collaborator, and human being. I’m especially interested in AI, mental health tech, and meaningful user-focused digital products.
 
-Repositorio Front: https://github.com/TheTorOnionSeeker/apiGamerTech
+Let’s build tools that matter.
 
-Repositorio Back: https://github.com/TheTorOnionSeeker/apiGamerTech
+📫 ## Get in Touch
+Feel free to reach out or connect — I'm always open to new challenges, collaborations, or just a good conversation:
 
+✉️ Email: schonborn13@gmail.com
 
-### Dogs ###
-![Dogs](https://github.com/EmaSchonborn/EmaSchonborn/assets/98197086/3703b1a9-3c11-426e-9f26-e6e905a0bdb5)
-
-Deploy: https://yourfavouritedogapp.netlify.app/
-
-Repositorio: https://github.com/EmaSchonborn/Dogs-PI
-
+💼 LinkedIn: emanuel-schonborn
