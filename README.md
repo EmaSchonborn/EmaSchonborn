@@ -39,4 +39,4 @@ Feel free to reach out or connect — I'm always open to new challenges, collabo
 
 ✉️ Email: schonborn13@gmail.com
 
-💼 LinkedIn: emanuel-schonborn
+💼 LinkedIn: [emanuel-schonborn](https://www.linkedin.com/in/emanuel-schonborn/)
