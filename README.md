@@ -12,7 +12,7 @@ I'm not just building code — I'm solving problems, refining UX, and collaborat
 ## 🧠  Tech Stack & Skills ##
 Languages: JavaScript, TypeScript, SQL
 
-Frontend: ReactJS, Redux, TailwindCSS, Responsive UI/UX
+Frontend: NextJS, ReactJS, Redux, TailwindCSS, Responsive UI/UX
 
 Backend: Node.js, Express.js, MongoDB, PostgreSQL
 
